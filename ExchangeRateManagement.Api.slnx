@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ExchangeRateManagement.Api/ExchangeRateManagement.Api.csproj" />
+  <Project Path="ExchangeRateManagement.Domain/ExchangeRateManagement.Domain.csproj" />
+  <Project Path="ExchangeRateManagement.Repository/ExchangeRateManagement.Repository.csproj" Id="7c39fdf2-0ada-4cd7-9fea-5aa6daac80d9" />
+  <Project Path="ExchangeRateManagement.Service/ExchangeRateManagement.Service.csproj" Id="316848d0-bee5-4724-adef-474033e52271" />
+  <Project Path="ExchangeRateManagement.Tests/ExchangeRateManagement.Tests.csproj" Id="afdd8852-e637-47b2-8afd-e0f21880692f" />
+</Solution>
